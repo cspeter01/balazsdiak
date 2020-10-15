@@ -55,16 +55,16 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 523px;
-    height: 387px;
+    width: 80%;
+    height: 309px;
     background-image: url('images/screen.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 .upside img{
-    width: auto;
-    margin: 0 20px;
+    width: 25%;
+    margin: 0 10px;
 }
 
 .disable{
